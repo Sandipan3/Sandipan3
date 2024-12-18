@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandipan Jha</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a **2nd-year B.Tech student** at the **University of Engineering and Management, Kolkata**, and an aspiring **web developer** passionate about creating innovative and functional web applications. 🚀</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a <h2>2nd-year B.Tech student</h2>h2> at the <h2>University of Engineering and Management, Kolkata</h2>h2>, and an aspiring **web developer** passionate about creating innovative and functional web applications. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipan3&label=Profile%20views&color=0e75b6&style=flat" alt="sandipan3" /> </p>
 
