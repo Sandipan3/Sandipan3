@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm a **2nd-year B.Tech student** at the **Univers
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandipan3&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan3&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandipan3&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="45%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan3&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%" /> </br>
 
   
   <!-- Alternative Language Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandipan3&theme=aura_dark" width="50%" />  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandipan3&theme=aura_dark" width="50%" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandipan3&theme=aura_dark" width="45%" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandipan3&theme=aura_dark" width="45%" />  
 </div>
 
 
