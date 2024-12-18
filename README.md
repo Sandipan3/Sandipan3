@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a **2nd-year B.Tech student** at the **Univers
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandipan3&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandipan3&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan3&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+
   
   <!-- Alternative Language Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandipan3&theme=aura_dark" width="45%" />  
