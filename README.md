@@ -46,15 +46,5 @@ Welcome to my GitHub profile! I'm a **2nd-year B.Tech student** at the **Univers
 
 ---
 
-<!-- Snake -->
-<div align="center">
-  ![snake gif](https://github.com/Sandipan-Jha/Sandipan-Jha/blob/output/github-snake-dark.svg)
-</div>
 
----
-
-<!-- Counter -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Sandipan-Jha&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
 
